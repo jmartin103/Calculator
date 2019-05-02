@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
-    class InputConverter
+    public class InputConverter
     {
         public double ConvertToNum(string textInp)
         {
